@@ -97,7 +97,7 @@ history = model.fit(
     y=y_train,
     validation_split=0.1,
     batch_size=256,
-    epochs=5,
+    epochs=30,
     callbacks=[checkpoint],
     verbose=1
 )
