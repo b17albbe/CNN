@@ -1,0 +1,37 @@
+loss: 2.1866 - accuracy: 0.1938 - val_loss: 2.3029 - val_accuracy: 0.1058
+loss: 1.8023 - accuracy: 0.3260 - val_loss: 2.3035 - val_accuracy: 0.1058
+loss: 1.6468 - accuracy: 0.3897 - val_loss: 2.3045 - val_accuracy: 0.0950
+loss: 1.5425 - accuracy: 0.4307 - val_loss: 2.3058 - val_accuracy: 0.0950
+loss: 1.4675 - accuracy: 0.4608 - val_loss: 2.3082 - val_accuracy: 0.0950
+loss: 1.4002 - accuracy: 0.4874 - val_loss: 2.3114 - val_accuracy: 0.0950
+loss: 1.3481 - accuracy: 0.5085 - val_loss: 2.3169 - val_accuracy: 0.0950
+loss: 1.3001 - accuracy: 0.5269 - val_loss: 2.3208 - val_accuracy: 0.0950
+loss: 1.2557 - accuracy: 0.5436 - val_loss: 2.3310 - val_accuracy: 0.0950
+loss: 1.2133 - accuracy: 0.5593 - val_loss: 2.3364 - val_accuracy: 0.0950
+loss: 1.1793 - accuracy: 0.5741 - val_loss: 2.3438 - val_accuracy: 0.0950
+loss: 1.1447 - accuracy: 0.5855 - val_loss: 2.3551 - val_accuracy: 0.0950
+loss: 1.1120 - accuracy: 0.5987 - val_loss: 2.3585 - val_accuracy: 0.0950
+loss: 1.0748 - accuracy: 0.6115 - val_loss: 2.3740 - val_accuracy: 0.0950
+loss: 1.0487 - accuracy: 0.6214 - val_loss: 2.3921 - val_accuracy: 0.0950
+loss: 1.0221 - accuracy: 0.6328 - val_loss: 2.4142 - val_accuracy: 0.0950
+loss: 0.9916 - accuracy: 0.6439 - val_loss: 2.4291 - val_accuracy: 0.0950
+loss: 0.9610 - accuracy: 0.6558 - val_loss: 2.4370 - val_accuracy: 0.0950
+loss: 0.9364 - accuracy: 0.6648 - val_loss: 2.4534 - val_accuracy: 0.0950
+loss: 0.9105 - accuracy: 0.6742 - val_loss: 2.4706 - val_accuracy: 0.0950
+loss: 0.8863 - accuracy: 0.6829 - val_loss: 2.4801 - val_accuracy: 0.0950
+loss: 0.8545 - accuracy: 0.6956 - val_loss: 2.4971 - val_accuracy: 0.0950
+loss: 0.8332 - accuracy: 0.7022 - val_loss: 2.5511 - val_accuracy: 0.0950
+loss: 0.8102 - accuracy: 0.7086 - val_loss: 2.5475 - val_accuracy: 0.0950
+loss: 0.7790 - accuracy: 0.7224 - val_loss: 2.5544 - val_accuracy: 0.0950
+loss: 0.7531 - accuracy: 0.7304 - val_loss: 2.5871 - val_accuracy: 0.0950
+loss: 0.7352 - accuracy: 0.7365 - val_loss: 2.6244 - val_accuracy: 0.1232
+loss: 0.7157 - accuracy: 0.7452 - val_loss: 2.6217 - val_accuracy: 0.0986
+loss: 0.6956 - accuracy: 0.7500 - val_loss: 2.6078 - val_accuracy: 0.1338
+loss: 0.6698 - accuracy: 0.7643 - val_loss: 2.5773 - val_accuracy: 0.1118
+
+Train Loss: 2.6009420345306395
+Test Loss: 2.60661296043396
+Train F1 Score: 0.1399
+Test F1 Score: 0.1329
+
+mobilenetv2
