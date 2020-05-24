@@ -36,3 +36,5 @@ Test Loss: 2.8646291175842284
 Train F1 Score: 0.92668
 Test F1 Score: 0.5022
 94.26331377029419
+
+resnet50
