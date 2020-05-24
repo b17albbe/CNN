@@ -52,7 +52,7 @@ for n in range(1, 29):
 
 start = time.time()
 
-from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
+from tensorflow.keras.applications.vgg16 import preprocess_input
 from tensorflow.keras.utils import to_categorical
 
 # We normalize the input according to the methods used in the paper
@@ -63,9 +63,9 @@ y_test = to_categorical(test_labels)
 X_test = preprocess_input(test_images)
 y_train = to_categorical(labels)
 
-from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2
+from tensorflow.keras.applications.vgg16 import VGG16
 
-model = MobileNetV2(
+model = VGG16(
     weights=None,
     include_top=True,
     classes=10,
